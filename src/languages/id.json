@@ -1,0 +1,57 @@
+{
+  "step": "Langkah ",
+
+  "yourinfo": "INFO ANDA",
+  "selectplan": "PILIHAN PAKET",
+  "add-ons": "TAMBAHAN",
+  "summary": "RINGKASAN",
+
+  "personalinfo": "Informasi Pribadi",
+  "captpersonalinfo": "Mohon berikan nama, alamat email, dan nomor telepon Anda.",
+  "name": "Nama",
+  "email": "Alamat Email",
+  "phone": "Nomor Telepon",
+
+  "namerequired": "Nama wajib diisi",
+  "emailrequired": "Alamat email wajib diisi",
+  "phonerequired": "Nomor telepon wajib diisi",
+  "required": "Kolom ini wajib diisi",
+
+  "back": "Kembali",
+  "nextstep": "Langkah Selanjutnya",
+
+  "selectyourplan": "Pilih paket Anda",
+  "captselectyourplan": "Anda dapat memilih pembayaran bulanan atau tahunan.",
+
+  "monthly": "Bulanan",
+  "yearly": "Tahunan",
+
+  "2monthsfree": "2 bulan gratis",
+  "off": "off",
+
+  "pickaddons": "Pilih tambahan",
+  "captpickaddons": "Tambahan ini akan meningkatkan pengalaman bermain game Anda",
+
+  "onlineservice": "Layanan daring",
+  "captonlineservice": "Akses ke permainan multipemain",
+  "largestorage": "Penyimpanan lebih besar",
+  "captlargestorage": "Tambahan 1TB simpanan awan",
+  "customizable": "Profil dapat disesuaikan",
+  "captcustomizable": "Tema kustom pada profil Anda",
+
+  "finishingup": "Menyelesaikan",
+  "captfinishingup": "Periksa kembali semua sebelum mengkonfirmasi.",
+
+  "change": "Ubah",
+  "mo": "bln",
+  "yr": "thn",
+  "total": "Total",
+
+  "confirm": "Konfirmasi",
+
+  "thankyou": "Terima kasih!",
+  "captthankyou": "Terima kasih telah mengkonfirmasi langganan Anda! Kami harap Anda bersenang-senang menggunakan platform kami. Jika Anda membutuhkan dukungan, jangan ragu untuk menghubungi kami di support@loremgaming.com.",
+  "invalidemail": "Alamat email tidak valid",
+  "invalidphonenumber": "Phone number tidak valid",
+  "makeanotherplans": "Buat rencana lain"
+}

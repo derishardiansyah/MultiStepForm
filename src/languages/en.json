@@ -1,0 +1,55 @@
+{
+  "step": "Step ",
+
+  "yourinfo": "YOUR INFO",
+  "selectplan": "SELECT PLAN",
+  "add-ons": "ADD-ONS",
+  "summary": "SUMMARY",
+
+  "personalinfo": "Personal info",
+  "captpersonalinfo": "Please provide your name, email address,  and phone number.",
+  "name": "Name",
+  "email": "Email Address",
+  "phone": "Phone number",
+
+  "namerequired": "Name is required",
+  "emailrequired": "Email is required",
+  "phonerequired": "Phone is required",
+  "required": "This field is required",
+
+  "back": "Go Back",
+  "nextstep": "Next Step",
+
+  "selectyourplan": "Select your plan",
+  "captselectyourplan": "You have the option of monthly or yearly billing.",
+  "monthly": "Monthly",
+  "yearly": "Yearly",
+  "2monthsfree": "2 months free",
+  "off": "off",
+
+  "pickaddons": "Pick add-ons",
+  "captpickaddons": "Add-ons help enhance your gaming experience",
+
+  "onlineservice": "Online service",
+  "captonlineservice": "Access to multiplayer games",
+  "largestorage": "Larger storage",
+  "captlargestorage": "Extra 1TB of cloud save",
+  "customizable": "Customizable profile",
+  "captcustomizable": "Custom theme on your profile",
+
+  "finishingup": "Finishing up",
+  "captfinishingup": "Double check everything looks OK before confirming.",
+
+  "change": "Change",
+  "mo": "mo",
+  "yr": "yr",
+  "total": "Total",
+
+  "confirm": "Confirm",
+
+  "thankyou": "Thank you!",
+  "captthankyou": "Thnaks for confirming your subscription! We hope you have fun using our platform. If your ever need support. Please feel free to email us at support@loremgaming.com. ",
+  "invalidemail": "Email is not valid",
+  "invalidphonenumber": "Phone number is not valid",
+  "makeanotherplans": "Make another plans"
+}
